@@ -129,9 +129,9 @@ if __name__ == '__main__':
     et = time.time()
     print("time cost: {}s".format(et - st))
     print("score: ", ss)
-    print(A)
-    print(len(A)*'|')
-    print(B)
+    print(AA)
+    print(len(str1)*'|')
+    print(BB)
     print()
     
     # long string case
@@ -153,3 +153,4 @@ if __name__ == '__main__':
     print(A)
     print(len(A)*'|')
     print(B)
+
