@@ -130,7 +130,7 @@ if __name__ == '__main__':
     print("time cost: {}s".format(et - st))
     print("score: ", ss)
     print(AA)
-    print(len(str1)*'|')
+    print(len(AA)*'|')
     print(BB)
     print()
     
@@ -150,7 +150,7 @@ if __name__ == '__main__':
     et = time.time()
     print("time cost: {}s".format(et - st))
     print("score: ", ss)
-    print(A)
-    print(len(A)*'|')
-    print(B)
+    print(AA)
+    print(len(AA)*'|')
+    print(BB)
 

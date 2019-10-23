@@ -1,0 +1,14 @@
+*********** A Toy Example *************
+time cost: 0.0002956390380859375s
+score:  3
+ATGCATGC
+||||||||
+-TGC-AGC
+
+************ Begin Real Inputs *************
+time cost: 6649.624507188797s
+score:  22020
+Traceback (most recent call last):
+  File "Hirschberg.py", line 153, in <module>
+    print(A)
+NameError: name 'A' is not defined
